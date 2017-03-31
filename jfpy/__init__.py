@@ -2,11 +2,15 @@
 # -*- coding: utf-8 -*-
 from basic.python_notes import variable,python_str,python_list, python_tuple, python_dict
 from python_condition import python_if, python_if_more
+from python_function import python_function_1
 from python_loop import python_for_demo, python_while_while
 
 
 def line():
     print '--------------------'
+
+def function():
+    python_function_1()
 
 def loop():
     python_for_demo()
@@ -30,6 +34,6 @@ def basic():
     python_dict()
 
 if __name__=="__main__":
-    condition()
-    loop()
+    function()
+
     # basic()
