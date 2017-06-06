@@ -5,51 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3166db79-3af2-402d-a870-e90481858a47" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/dataurl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_dictionary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_fun.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_io.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_modul.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_string.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/basic/python_tup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/Employee.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/JustCounter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/Parent.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/PythonMatch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/Python_json.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/Python_threading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/Test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/Vector.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/movies.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/python_queue.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/python_re.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/python_sax.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/sql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/threadTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/web_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/classs/web_service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_10.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_11.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_14.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_15.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_16.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_76.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_9.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_17.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_18.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_19.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_20.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_22.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_23.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_24.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_25.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_26.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_27.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfpy/example/test_28.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jfpy/__init__.py" afterPath="$PROJECT_DIR$/jfpy/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,153 +35,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/__init__.py">
+      <file leaf-file-name="test_22.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jfpy/example/test_22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="24" />
-              <folding>
-                <element signature="e#42#131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="245">
+              <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_9.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_10.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_10.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_11.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_76.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_76.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_14.py">
+      <file leaf-file-name="test_23.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jfpy/example/test_23.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_15.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_15.py">
+      <file leaf-file-name="test_24.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jfpy/example/test_24.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_25.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jfpy/example/test_25.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_26.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jfpy/example/test_26.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_27.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jfpy/example/test_27.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_28.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jfpy/example/test_28.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_16.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/test_16.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jfpy/example/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -249,18 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jfpy/pymd5.py" />
-        <option value="$PROJECT_DIR$/jfpy/apk_unzip.py" />
-        <option value="$PROJECT_DIR$/jfpy/init.py" />
-        <option value="$PROJECT_DIR$/jfpy/BasicGrammar/python_notes.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/python_notes.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/python_operator.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/python_condition.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/python_loop.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/python_function.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/dataurl.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/python_string.py" />
-        <option value="$PROJECT_DIR$/jfpy/basic/python_list.py" />
         <option value="$PROJECT_DIR$/jfpy/basic/python_tup.py" />
         <option value="$PROJECT_DIR$/jfpy/basic/python_dictionary.py" />
         <option value="$PROJECT_DIR$/jfpy/basic/python_time.py" />
@@ -300,13 +174,25 @@
         <option value="$PROJECT_DIR$/jfpy/example/test_14.py" />
         <option value="$PROJECT_DIR$/jfpy/example/test_15.py" />
         <option value="$PROJECT_DIR$/jfpy/example/test_16.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_17.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_18.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_19.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_20.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_21.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_22.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_23.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_24.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_25.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_26.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_27.py" />
+        <option value="$PROJECT_DIR$/jfpy/example/test_28.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1224" />
-    <option name="y" value="15" />
-    <option name="width" value="1308" />
+    <option name="x" value="50" />
+    <option name="y" value="26" />
+    <option name="width" value="1833" />
     <option name="height" value="1012" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -378,8 +264,8 @@
       <recent name="E:\mywork\testpy\jfpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_16">
-    <configuration default="false" name="test_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_28">
+    <configuration default="false" name="test_24" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -391,12 +277,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="jfpy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_76" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_25" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -408,12 +294,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="jfpy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_76.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -425,12 +311,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="jfpy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_27" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -442,12 +328,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="jfpy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_28" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -459,7 +345,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="jfpy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jfpy/example/test_28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -872,19 +758,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.test1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_11" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_76" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_14" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_15" />
-      <item index="5" class="java.lang.String" itemvalue="Python.test_16" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_24" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test_25" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test_26" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_27" />
+      <item index="5" class="java.lang.String" itemvalue="Python.test_28" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_16" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_15" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_14" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_76" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_11" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_28" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_27" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_26" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_25" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_24" />
       </list>
     </recent_temporary>
   </component>
@@ -916,7 +802,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1224" y="15" width="1308" height="1012" extended-state="0" />
+    <frame x="50" y="26" width="1833" height="1012" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -928,18 +814,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15120712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36075205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23397435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23350254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22679201" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22679201" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -969,90 +855,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_notes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="105" column="16" lean-forward="false" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_condition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_operator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
-          <caret line="84" column="20" lean-forward="false" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="1595" column="0" lean-forward="false" selection-start-line="1595" selection-start-column="0" selection-end-line="1595" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/dataurl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="58" column="25" lean-forward="false" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="76" column="4" lean-forward="false" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_tup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="50" column="36" lean-forward="false" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jfpy/basic/python_fun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jfpy/basic/python_loop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1560">
@@ -1241,7 +1043,7 @@
         <state relative-caret-position="1440">
           <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="24" />
           <folding>
-            <element signature="e#42#131#0" expanded="true" />
+            <element signature="e#42#131#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1346,6 +1148,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jfpy/example/test_28.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
