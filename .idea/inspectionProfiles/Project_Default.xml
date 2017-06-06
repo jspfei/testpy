@@ -10,6 +10,7 @@
         <list>
           <option value="urllib" />
           <option value="hashlib" />
+          <option value="example.test_2.t_1" />
         </list>
       </option>
     </inspection_tool>
