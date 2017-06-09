@@ -54,9 +54,13 @@ top_female_ratings =mean_ratings.sort_index(ascending= False)
 show_line()
 print top_female_ratings[:10]
 
-#计算评分分歧
-mean_ratings['diff'] = mean_ratings['M'] - mean_ratings['F']
+#根据电影名称分组的得分数据的标准差
 
-sorted_by_diff = mean_ratings.sort_index(by='diff')
+rating_std_by_title = data.groupby('title')['rating'].std()
+#根据active_titles 进行过滤
+rating_std_by_title = rating_std_by_title.ix[active_titles]
+# 根据值对series进行降序排序
+print rating_std_by_title.order(ascending=False)[:10]
 
-print sorted_by_diff[:15]
+
+ 
