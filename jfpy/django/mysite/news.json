@@ -1,0 +1,1 @@
+[{"model": "news.reporter", "pk": 1, "fields": {"full_name": "Billy Goat"}}, {"model": "news.article", "pk": 1, "fields": {"pub_date": "2018-05-23", "headline": "Django is cool", "context": "Yeah.", "reporter": 1}}]
